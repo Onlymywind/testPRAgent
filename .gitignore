@@ -1,0 +1,17 @@
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+*.jar
+*.war
+*.ear
+
+*.log
+
+*.class
+/.gitignore
+/misc.xml
+/modules.xml
+/vcs.xml
